@@ -89,7 +89,7 @@ a {
    display: flex;
    align-items: center;
    justify-content: space-between;
-   padding: 20px 130px;
+   padding: 20px 0;
 }
 
 .header-list {
